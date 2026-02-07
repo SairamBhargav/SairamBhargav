@@ -1,4 +1,4 @@
-# Hey, I'm Bhargav 👋  
+# Hey, I'm Bhargav 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
 CS Student @ Univeristy Of Colorado Boulder • Backend & AI Engineer • Always building  
