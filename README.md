@@ -14,7 +14,7 @@ CS Student @ Univeristy Of Colorado Boulder • Backend & AI Engineer • Always
 ---
 
 ### 🔗 Find me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/bhargavsairam/))  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/bhargavsairam/)](https://www.linkedin.com/in/bhargavsairam/))  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
 ---
