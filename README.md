@@ -75,9 +75,3 @@ DevOps / Infra     ██████████████░░░░░░�
 </div>
 
 ---
-
-<div align="center">
-
-*made with ♥ & too much coffee — Bhargav Sairam*
-
-</div>
